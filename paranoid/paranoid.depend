@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490775359 source:d:\program files\codeblocks\workspace\paranoid\main.c
+	<windows.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<unistd.h>
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+
